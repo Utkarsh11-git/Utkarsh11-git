@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align="center">Hi there, I am Utkarsh Madaksira 👋</h1>
+<hi align="center">I am Utkarsh Madaksira 👋</h1>
 
 - 🔭 I’m purusing Master's in Business Analytics at Dublin Business School
 - 💬 Ask me about <strong>Business Analysis, Data Analytics, Python, SQL, Power BI, Excel, and Capital Markets</strong>
