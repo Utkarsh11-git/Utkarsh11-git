@@ -1,3 +1,4 @@
+![logo](https://www.womenintech.co.uk/wp-content/uploads/2019/05/business-analyst.jpg)
 ### Hi there 👋
 
 <!--
