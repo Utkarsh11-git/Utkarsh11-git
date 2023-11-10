@@ -1,5 +1,8 @@
-![logo](https://www.womenintech.co.uk/wp-content/uploads/2019/05/business-analyst.jpg)
+<p align="center">
+  <img src="https://www.womenintech.co.uk/wp-content/uploads/2019/05/business-analyst.jpg" alt="logo">
+</p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 ### Hi there 👋
 
 <!--
